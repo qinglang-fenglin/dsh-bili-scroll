@@ -1,0 +1,19 @@
+# 运行数据与本地配置（绝不提交）
+config.json
+*.credentials.yaml
+.credentials.yaml
+.env
+.env.*
+*.log
+out/
+reports/
+data/
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+
+# 杂项
+.DS_Store
+Thumbs.db
+*.tgz
